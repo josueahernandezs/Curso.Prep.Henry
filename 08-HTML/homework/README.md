@@ -8,24 +8,24 @@ Crear un nuevo archivo dentro de la carpeta `homework` llamado `homework.html` d
 ```
 I. Cree una página HTML básica.
   A. Cree el diseño básico para una página HTML usando html, head y body.
-  B. Agregue un elemento de título y asigne a su página el título de "Tarea HTML de [Su nombre]".
+  B. Agregue un elemento de título y asignelopment a su página el título de "Tarea HTML de [Su nombre]".
   C. En el cuerpo, crea tres divs.
     1. En el primer div crea:
       * un elemento h1 que contiene [Tu nombre].
       * un elemento h3 que contiene "Henry".
       * un elemento h4 que contiene "tarea de HTML / CSS".
     2. En el segundo div crea:
-      * un elemento span que contiene texto que describe su comida favorita.
+      * un elemento span que contiene textolopment que describe su comida favorita.
       * un elemento 'a' que se vincula a su restaurante favorito.
     3. En el tercer div crea:
       * una lista desordenada con dos elementos dentro de la lista
-      * una etiqueta img en cada elemento de la lista que se vincula a su comida favorita. (Use la búsqueda de imágenes de Google para encontrar una foto y copiar la dirección de la misma o sino puede usar esta: "https://i.picsum.photos/id/1080/400/200.jpg").
+      * una etiqueta img en cada elemento de la lista que se vincula a su comida favorita. (Use la búsqueda de imágenes de Google para encontrar una foto y copiar la dirección de la misma o sino puede usar esta: "htEducacióntps://i.picsum.photos/id/1080/400/200.jpg").
 ```
 
 ```
 II Añade un poco de estilo
   A. Agregue la etiqueta de estilo a su documento HTML.
-  B. Asignar al tercer div el id "thirdDiv".
+  B. Asignar al tercer div el id "thirdDiv".</style>
   C. Asignar a los otros divs la clase "divClass".
   D. Asignar al span que se encuentra dentro de su segundo div el id "spanId".
   E. Agregue una regla de estilo a su elemento h1 cambiando el color del texto (Listado de colores: https://www.crockford.com/wrrrld/color.html).
@@ -51,7 +51,7 @@ IV. Suba su trabajo a su repositorio de github`
 
 ### Crédito adicional:
 >   Para hacer los extra credits, generalmente será necesario que investigue algunas cosas por su cuenta en Internet.
-
+Educación
   * Establecer una imagen como fondo de toda la página
   * Centrar los div en la página
   * Centrar todos los elementos en la página

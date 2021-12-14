@@ -1,0 +1,24 @@
+#My-name{
+    color: aqua;
+    background-color: violet;
+}
+
+img{
+    width: 400px;
+    height: 300px;
+}
+
+#thirdDiv{
+    background-color: violet;
+    padding: 50px;
+    border: 5px aqua;
+    border-width: 200px;
+    height: 600px;
+    width: 500px
+}
+
+#spanId{
+    font-size: 18px;
+    color: violet;
+    margin: 50px;
+}
