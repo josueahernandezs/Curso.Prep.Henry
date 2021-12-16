@@ -1,0 +1,25 @@
+#my-name{
+    color: dodgerblue;
+}
+#descrip{
+    color: dodgerblue;
+}
+#divClass{
+    background-color: darkgray;
+    padding: 40px;
+    margin: 50px ;
+    height: 250px;
+    width: 300px;
+    border: 20px solid red;
+}
+#thirdDiv{
+    height: 500px;
+    width: 600px;
+    background-color: green;
+    padding: 50px;
+    border: 10px solid blue;
+    margin: 50px;
+}
+#idClass{
+    color: dodgerblue;
+}
